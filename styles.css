@@ -1,0 +1,7 @@
+li {
+  list-style-type: decimal;
+}
+
+.done {
+  text-decoration: line-through;
+}
